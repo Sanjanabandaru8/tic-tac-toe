@@ -13,7 +13,7 @@ Requirements:
 - No external dependencies or libraries required
 
 Installation:
-1. Clone the repository using git clone:                https://github.com/Sanjanabandaru8/tic-tac-toe.git
+1. Clone the repository using:                          git clone https://github.com/Sanjanabandaru8/tic-tac-toe.git
 2. Navigate to the project directory using:             cd tic-tac-toe
 4. Run the game using python:                           tic-tac-toe.py
 
